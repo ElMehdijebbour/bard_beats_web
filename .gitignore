@@ -1,0 +1,55 @@
+# Miscellaneous
+*.lock
+*.log
+*.sqlite
+*.mojo_run
+*.directory
+.DS_Store
+.atom/
+.jekyll-metadata
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# IntelliJ related
+.idea/
+*.iml
+*.ipr
+*.iws
+*.idea_modules/
+
+# VSCode related
+.vscode/
+
+# Android related
+android/.gradle
+android/captures/
+android/local.properties
+android/GeneratedPluginRegistrant.*
+
+# iOS related
+ios/.generated/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Pods/
+ios/Runner.xcworkspace
+
+# macOS related
+macos/Pods/
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/ephemeral/
+
+
+
+# Build output
+build/
+/tmp
+/key.properties
+
+# Coverage data
+coverage/
+
+# Pub related
+.pub-cache/
+pubspec.lock

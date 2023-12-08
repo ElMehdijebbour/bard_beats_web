@@ -56,5 +56,4 @@
     - [Adding Translations](#adding-translations)
   - [Scripts](#scripts)
 
-<!-- Rest of your README content -->
 

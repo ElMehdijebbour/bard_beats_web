@@ -6,7 +6,7 @@
   <div align="center">
     <b><font size="5">BardBeats Dashboard</font></b>
     <sup>
-      <a href="[your-project-url](https://bardbeats.web.app/#/login)">
+      <a href="https://bardbeats.web.app/#/login">
         <i><font size="4">Check it out!</font></i>
       </a>
     </sup>
